@@ -54,6 +54,9 @@
         width: 70px !important;
         height: 70px !important;
     }
+    #landing{
+        height: 82vh !important;
+    }
     
   
 }
